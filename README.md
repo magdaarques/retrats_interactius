@@ -2,5 +2,5 @@
 retrats classe interactius
 
 
-http://github.com/diamarartes
-http://github.com/maitevicedo
+<p>http://github.com/diamarartes</p>
+<p>http://github.com/maitevicedo</p>
